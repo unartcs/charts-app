@@ -1,0 +1,35 @@
+@media (height < 480px) {
+    .chart-wrapper {
+        height: 350px;
+    }
+}
+
+@media (height < 440px) {
+    .chart-wrapper {
+        height: 300px;
+    }
+}
+
+@media (height < 400px) {
+    .chart-wrapper {
+        height: 250px;
+    }
+}
+
+@media (height < 330px) {
+    .chart-wrapper {
+        height: 220px;
+    }
+}
+
+@media (height < 300px) {
+    .chart-wrapper {
+        height: 200px;
+    }
+}
+
+@media (height > 600px) {
+    .chart-wrapper {
+        height: 400px;
+    }
+}
